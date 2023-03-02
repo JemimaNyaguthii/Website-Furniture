@@ -1,9 +1,9 @@
-.navigate{
+ .navigate{
     display:flex;
     gap: 10%;
    
 
-}
+} 
 
     .details{
     display: flex;
@@ -66,3 +66,8 @@ table{
 .td{
     border: 2px white;
 }
+/* button1{
+    border-radius: 30px;
+    padding: 10px 30px;
+    border-color: black;
+}  */
